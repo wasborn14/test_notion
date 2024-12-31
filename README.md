@@ -1,6 +1,5 @@
 # test_notion
 
-notionのgithub連携をテストするリポジトリです。
+notion の github 連携をテストするリポジトリです。
 
-feature/1
-
+feature/
