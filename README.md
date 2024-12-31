@@ -2,4 +2,4 @@
 
 notion の github 連携をテストするリポジトリです。
 
-feature/
+feature/2
